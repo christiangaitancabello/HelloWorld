@@ -4,6 +4,8 @@
 Este proyecto es la aplicación que prácticamente viene por defecto al crear un proyecto en Android Studio, en el que simplemente se muestra un mensaje de texto sin formato en el centro de la pantalla.
 
 
+<br />
+
 #### Características
 Recurso string añadido con nombre 'tvMessage' con el contenido del mensaje que se muestra en pantalla.
 
@@ -13,9 +15,18 @@ Recurso string añadido con nombre 'tvMessage' con el contenido del mensaje que 
     	<!--<string name="tvMessage">¡Hola mundo cruel!</string>-->
 	</resources>
 
+- SDK mínimo para el uso de la aplicación: 23
+- SDK objetivo de la aplicación: 32
+- SDK del compilado de la aplicación: 32
+- Versión: 1.0  
+
+<br />
+
 ### Librerías
 El proyecto cuenta con las librerías por defecto de Android, además de las externas de la API 32 de Android.
 
+
+<br />
 
 ### Capturas
 Mi cuenta de GitHub vinculada en Android Studio
